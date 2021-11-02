@@ -91,4 +91,8 @@ function [corr] = tropo_error_correction(el, h)
 %   Computation of the pseudorange correction due to tropospheric refraction.
 %   Saastamoinen algorithm.
 ```
+## Reference
+1. Herrera, Antonio M., et al. "goGPS: open-source MATLAB software." GPS solutions 20.3 (2016): 595-603.
+2. Takasu, Tomoji, and Akio Yasuda. "Development of the low-cost RTK-GPS receiver with an open source program package RTKLIB." International symposium on GPS/GNSS. Vol. 1. International Convention Center Jeju Korea, 2009.
+3. Navstar, G. "Space Segment/Navigation User Interfaces, Interface Control Document GPS (200), No." ICD GPS 200.
 
